@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\C#101 Ödev 10 Diziler - Array Sınıfı Metodları\bin\Debug\net6.0\C#101 Ödev 10 Diziler - Array Sınıfı Metodları.exe
+c:\Users\muaze\Desktop\C#101 Ödev 10 Diziler - Array Sınıfı Metodları\bin\Debug\net6.0\C#101 Ödev 10 Diziler - Array Sınıfı Metodları.deps.json
+c:\Users\muaze\Desktop\C#101 Ödev 10 Diziler - Array Sınıfı Metodları\bin\Debug\net6.0\C#101 Ödev 10 Diziler - Array Sınıfı Metodları.runtimeconfig.json
+c:\Users\muaze\Desktop\C#101 Ödev 10 Diziler - Array Sınıfı Metodları\bin\Debug\net6.0\C#101 Ödev 10 Diziler - Array Sınıfı Metodları.dll
+c:\Users\muaze\Desktop\C#101 Ödev 10 Diziler - Array Sınıfı Metodları\bin\Debug\net6.0\C#101 Ödev 10 Diziler - Array Sınıfı Metodları.pdb
+c:\Users\muaze\Desktop\C#101 Ödev 10 Diziler - Array Sınıfı Metodları\obj\Debug\net6.0\C#101 Ödev 10 Diziler - Array Sınıfı Metodları.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\C#101 Ödev 10 Diziler - Array Sınıfı Metodları\obj\Debug\net6.0\C#101 Ödev 10 Diziler - Array Sınıfı Metodları.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\C#101 Ödev 10 Diziler - Array Sınıfı Metodları\obj\Debug\net6.0\C#101 Ödev 10 Diziler - Array Sınıfı Metodları.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\C#101 Ödev 10 Diziler - Array Sınıfı Metodları\obj\Debug\net6.0\C#101 Ödev 10 Diziler - Array Sınıfı Metodları.AssemblyInfo.cs
+c:\Users\muaze\Desktop\C#101 Ödev 10 Diziler - Array Sınıfı Metodları\obj\Debug\net6.0\C#101 Ödev 10 Diziler - Array Sınıfı Metodları.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\C#101 Ödev 10 Diziler - Array Sınıfı Metodları\obj\Debug\net6.0\C#101 Ödev 10 Diziler - Array Sınıfı Metodları.dll
+c:\Users\muaze\Desktop\C#101 Ödev 10 Diziler - Array Sınıfı Metodları\obj\Debug\net6.0\refint\C#101 Ödev 10 Diziler - Array Sınıfı Metodları.dll
+c:\Users\muaze\Desktop\C#101 Ödev 10 Diziler - Array Sınıfı Metodları\obj\Debug\net6.0\C#101 Ödev 10 Diziler - Array Sınıfı Metodları.pdb
+c:\Users\muaze\Desktop\C#101 Ödev 10 Diziler - Array Sınıfı Metodları\obj\Debug\net6.0\C#101 Ödev 10 Diziler - Array Sınıfı Metodları.genruntimeconfig.cache
+c:\Users\muaze\Desktop\C#101 Ödev 10 Diziler - Array Sınıfı Metodları\obj\Debug\net6.0\ref\C#101 Ödev 10 Diziler - Array Sınıfı Metodları.dll
